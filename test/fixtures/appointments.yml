@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-09-20
+  time: 2023-09-20 16:36:27
+  reason: MyString
+  patient_name: MyString
+  patient_email: MyString
+  patient_phone: MyString
+  payment_id: 1
+  price: 9.99
+  consultation_type: MyString
+
+two:
+  date: 2023-09-20
+  time: 2023-09-20 16:36:27
+  reason: MyString
+  patient_name: MyString
+  patient_email: MyString
+  patient_phone: MyString
+  payment_id: 1
+  price: 9.99
+  consultation_type: MyString
